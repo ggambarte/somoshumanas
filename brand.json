@@ -1,0 +1,27 @@
+{
+"brand": {
+"name": "SOMOS.HUMANAS",
+"taglines": ["Volvé a tu voz interna", "El camino es hacia adentro", "Fuerza serena. Alma en acción"],
+"voice": {"tone": ["cálido", "directo", "profesional"], "style": ["simple", "sobrio", "profundo"]},
+"pillars": [
+{"id": "voz_interna", "claim": "La voz interna es la guía"},
+{"id": "cuerpo_puerta", "claim": "El cuerpo abre la puerta"},
+{"id": "hacia_adentro", "claim": "El camino es hacia adentro"},
+{"id": "potencia_serena", "claim": "Accionar desde el alma"}
+]
+},
+"audience": {
+"who": "Mujeres líderes/profesionales que hicieron todo y sienten vacío",
+"pains": ["ruido mental", "desconexión intuición", "cansancio", "búsqueda de reconocimiento externo"],
+"desires": ["claridad", "presencia", "libertad interna", "coherencia"]
+},
+"offers": {
+"one_to_one": {"benefits": ["claridad", "plan alineado", "hábitos de raíz"], "cta": "Aplicá al 1:1"},
+"group": {"benefits": ["sostén colectivo", "hábitos", "foco"], "cta": "Sumate a la mentoría"},
+"retreats": {"benefits": ["silencio", "naturaleza", "regulación"], "legal": "Sin instrucciones ni logística de sustancias.", "cta": "Reservá tu lugar"}
+},
+"web": {
+"sitemap": ["home", "sobre_mi", "servicios", "recursos", "testimonios", "faq", "aplica", "contacto"],
+"seo": {"home": {"title": "SOMOS.HUMANAS | El camino es hacia adentro", "description": "Acompaño a mujeres líderes a volver a su voz interna. Sesiones 1:1, mentoría grupal y retiros en la naturaleza."}}
+}
+}

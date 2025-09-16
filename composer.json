@@ -1,0 +1,8 @@
+{
+  "name": "somos_humanas/web",
+  "description": "Sitio Somos Humanas",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
